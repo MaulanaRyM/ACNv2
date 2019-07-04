@@ -1,4 +1,4 @@
-# ACNv2 [ Demo Version ]
+# ACNv2
 Tools Installer [ Army Cyber Network ] We Are Family
 
 # Need Install
